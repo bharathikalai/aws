@@ -1,14 +1,14 @@
-### How attach volume in ec2 linux
+### How attach extend the volume in ec2 linux
 ## create a ec2 instance 
 ![alt text](image.png)
 
-## once ec2 has been created aws ebs vloume will automatically create a volumn
+## once ec2 has been created aws ebs volume will automatically create a volume
 ![alt text](image-1.png)
 
-## modify the volume size 10 to 15 and click modify button 
+## modify the volume size 8gb to 10gb and click modify button 
 ## ![alt text](image-2.png)
 
-## connect your linux server via ssh
+## connect with your linux server via ssh
 ## step 1 run this below command verify the disk 
 ### command lsblk
 ![alt text](image-3.png)
