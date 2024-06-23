@@ -1,4 +1,4 @@
-### How attach extend the volume in ec2 linux
+### How to attach extend the volume in ec2 linux
 ## create a ec2 instance 
 ![alt text](image.png)
 
