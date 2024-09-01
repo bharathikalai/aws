@@ -1,7 +1,8 @@
 ## Network loadbalancer
 
 
-![alt text](image-1.png)
+![alt text](image-2.png)
+
 
 ``` #!/bin/bash
 yes | sudo apt update
