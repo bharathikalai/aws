@@ -8,3 +8,4 @@ should understand the layers 7 to layer 1
 application load balancer >> host and domain and path
 network load balancer  >> tcp and udp
 gateway load balancer >> vpn and firewall
+
