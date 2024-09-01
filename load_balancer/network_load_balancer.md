@@ -1,4 +1,4 @@
-## Network Load Balancer
+# Network Load Balancer
 
 ![Network Load Balancer Overview](image-2.png)
 
