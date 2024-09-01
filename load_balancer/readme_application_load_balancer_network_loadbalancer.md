@@ -9,12 +9,12 @@ application vs network :    network load balancer : https://www.youtube.com/watc
 yes | sudo apt update
 yes | sudo apt install apache2
 echo "<h1>Server Details</h1><p><strong>Hostname:</strong> $(hostname)</p><p><strong>IP Address:</strong> $(hostname -I | cut -d" " -f1)</p>" > /var/www/html/index.html
-sudo systemctl restart apache2  ```
+sudo systemctl restart apache2  
 
 
 
 
-sudo mkdir /var/www/html/foo
+``` sudo mkdir /var/www/html/foo
 sudo mkdir /var/www/html/bar
 
 sudo touch /var/www/html/foo/index.html
