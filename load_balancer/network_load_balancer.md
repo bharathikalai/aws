@@ -21,13 +21,13 @@ sudo systemctl restart apache2
 ### Step 2 Create a IGW(internet gateway) and attach to the VPC
 ![alt text](image-3.png)
 
-### Step 3 Create a 2 public subnetgroup
+### Step 3 Create a 2 public subnet
 ![alt text](image-4.png)
 
-### Step 4 Create a Routetable and attach the 2 pulic subnet and privide igw
+### Step 4 Create a Routetable and attach the 2 pulic subnet and provide igw
 ![alt text](image-5.png)
 
-### Step 5 Create a ec2-1 and ec2-2 with public subnet 1 and public subnet 2 which create the ec2 in user data add above bash script
+### Step 5 Create a ec2-1 and ec2-2 with public subnet 1 and public subnet 2 while create the ec2 in user data add above bash script
 ![alt text](image-6.png)
 
 ### Step 6 Create a target group 
