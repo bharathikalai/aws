@@ -12,7 +12,7 @@ echo "<h1>Server Details</h1><p><strong>Hostname:</strong> $(hostname)</p><p><st
 sudo systemctl restart apache2
 
 
-
+--------------------------------------------------
 
 ### Step 1 Create a VPC  CICR RANGE 11.0.0.0/24
 ![alt text](image-1.png)
